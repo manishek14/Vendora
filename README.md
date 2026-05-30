@@ -1,6 +1,6 @@
-# 🛍️ NestJS Marketplace
+# 🛍️ NestJS OnlineShop
 
-A production-ready multi-vendor marketplace backend built with **NestJS**, **PostgreSQL**, **TypeORM**, and **Redis**.  
+A production-ready multi-vendor OnlineShop backend built with **NestJS**, **PostgreSQL**, **TypeORM**, and **Redis**.  
 Designed for platforms like Digikala, Amazon, or any e-commerce ecosystem requiring vendor support, complex product attributes, and flexible payment flows.
 
 > 🔐 Authentication • 💰 Wallet + Withdrawal • 📦 Order Management • 🚚 Dynamic Shipping • 🧾 Discount Codes • 📢 Notification System • ⚖️ Violation & Ban Engine
@@ -92,8 +92,8 @@ Designed for platforms like Digikala, Amazon, or any e-commerce ecosystem requir
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nestjs-marketplace.git
-cd nestjs-marketplace
+git clone https://github.com/yourusername/nestjs-OnlineShop.git
+cd nestjs-OnlineShop
 
 # Install dependencies
 npm install
