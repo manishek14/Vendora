@@ -1,0 +1,2 @@
+
+C:\Users\Shekofteh\Desktop\web develop\period8 nJs LFB\project>  "C:\Users\Shekofteh\AppData\Local\pnpm\\node.exe"  "C:\Users\Shekofteh\AppData\Local\pnpm\\global\5\.pnpm\@nestjs+cli@11.0.21_@types+node@25.8.0_esbuild@0.28.0\node_modules\@nestjs\cli\bin\nest.js" g resource module/product @OneToMany(() =, (image) =, { cascade: true })
