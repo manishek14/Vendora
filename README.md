@@ -1,4 +1,4 @@
-# 🛍️ NestJS NovaCommerce
+# 🛍️ NestJS Vendora
 
 A production-ready multi-vendor OnlineShop backend built with **NestJS**, **PostgreSQL**, **TypeORM**, and **Redis**.  
 Designed for platforms like Digikala, Amazon, or any e-commerce ecosystem requiring vendor support, complex product attributes, and flexible payment flows.
